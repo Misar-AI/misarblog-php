@@ -1,6 +1,6 @@
 {
   "name": "misarai/misarblog-php",
-  "description": "Official PHP SDK for the Misar.Blog developer API — articles, drafts, series, reactions, AI completion/titles, image generation, search, analytics, plan/trial. Full 23-operation coverage.",
+  "description": "Official PHP SDK for the Misar.Blog developer API — articles, drafts, series, comments, follows, reactions, AI, images, search, analytics, plan/trial. Full 25-operation coverage.",
   "type": "library",
   "license": "MIT",
   "homepage": "https://docs.misar.io/blog",
